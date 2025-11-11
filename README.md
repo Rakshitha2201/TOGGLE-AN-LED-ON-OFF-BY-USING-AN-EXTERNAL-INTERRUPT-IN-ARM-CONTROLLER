@@ -93,11 +93,10 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 }
 
 **OUTPUT:**
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
+
+![WhatsApp Image 2025-11-11 at 9 43 41 AM](https://github.com/user-attachments/assets/695cb822-cb16-4b03-bab3-5392f87ec0f7)
+![WhatsApp Image 2025-11-11 at 9 44 18 AM](https://github.com/user-attachments/assets/5f7ab399-bd1e-4549-9870-7bbe9f89e218)
+
 
 
 
